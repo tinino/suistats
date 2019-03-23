@@ -1,0 +1,12 @@
+Package: suistats
+Title: Functions to Handle BFS Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tino",
+           family = "Good",
+           role = c("aut", "cre"),
+           email = "onit.good+suistats@gmail.com")
+Description: Collects some functions that might faciliate the use of data from the Federal Statistical Office in Switzerland. Also provides some functions to deal with spatial data in this context.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
