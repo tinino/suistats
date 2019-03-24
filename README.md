@@ -27,9 +27,11 @@ library(suistats)
 ggplot(data = make_layer_data(agg_level = "GDNR"),
        mapping = aes(x = long, y = lat, group = group)) +
   geom_polygon() +
+  geom_polygon(data = ch_shape_lake, fill = "deepskyblue") +
   geom_path(color = "white") +
   coord_equal()
 #> Loading required package: sp
+#> Regions defined for each Polygons
 ```
 
 <img src="man/figures/README-unnamed-chunk-1-1.png" width="100%" />
@@ -40,8 +42,10 @@ Plot districts:
 ggplot(data = make_layer_data(agg_level = "BZNR"),
        mapping = aes(x = long, y = lat, group = group)) +
   geom_polygon() +
+  geom_polygon(data = ch_shape_lake, fill = "deepskyblue") +
   geom_path(color = "white") +
   coord_equal()
+#> Regions defined for each Polygons
 ```
 
 <img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
