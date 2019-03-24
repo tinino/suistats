@@ -5,6 +5,8 @@ suistats
 
 The goal of suistats is to use of data from the Federal Statistical Office of Switzerland easier within R. But that is a long-term goal. We start with using their Swiss map. Find examples below.
 
+Map data, municipality info and ZIP-code mapping data are all retrieved from <https://www.bfs.admin.ch>.
+
 Installation
 ------------
 
