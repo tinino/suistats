@@ -1,0 +1,240 @@
+Stadt	GMDEQNR	NR	NAME	GMDE	Flaeche ha
+Winterthur	230110	110	Altstadt	230	43
+Winterthur	230120	120	Lind	230	311
+Winterthur	230130	130	Heiligberg	230	501
+Winterthur	230140	140	Tössfeld	230	42
+Winterthur	230150	150	Brühlberg	230	81
+Winterthur	230160	160	Neuwiesen	230	60
+Winterthur	230210	210	Talacker	230	158
+Winterthur	230220	220	Guggenbühl	230	99
+Winterthur	230230	230	Grüze	230	174
+Winterthur	230240	240	Hegmatten	230	85
+Winterthur	230250	250	Hegi	230	305
+Winterthur	230260	260	Zinzikon	230	105
+Winterthur	230270	270	Reutlingen	230	200
+Winterthur	230280	280	Stadel	230	438
+Winterthur	230290	290	Ricketwil	230	192
+Winterthur	230310	310	Waser	230	57
+Winterthur	230315	315	Büelwiesen	230	38
+Winterthur	230320	320	Waldegg	230	39
+Winterthur	230330	330	Ganzenbühl	230	119
+Winterthur	230340	340	Sonnenberg	230	126
+Winterthur	230350	350	Oberseen	230	168
+Winterthur	230360	360	Gotzenwil	230	106
+Winterthur	230370	370	Eidberg	230	233
+Winterthur	230380	380	Iberg	230	138
+Winterthur	230390	390	Sennhof	230	83
+Winterthur	230410	410	Schlosstal	230	89
+Winterthur	230420	420	Dättnau	230	279
+Winterthur	230430	430	Eichliacker	230	122
+Winterthur	230440	440	Rossberg	230	238
+Winterthur	230510	510	Rosenberg	230	189
+Winterthur	230520	520	Blumenau	230	43
+Winterthur	230610	610	Weinberg	230	143
+Winterthur	230620	620	Oberfeld	230	121
+Winterthur	230630	630	Lindenplatz	230	52
+Winterthur	230640	640	Niederfeld	230	91
+Winterthur	230650	650	Neuburg	230	580
+Winterthur	230660	660	Hardau	230	66
+Winterthur	230670	670	Härti	230	40
+Winterthur	230680	680	Taggenberg	230	223
+Winterthur	230710	710	Deutweg	230	548
+Winterthur	230720	720	Gutschick	230	43
+Winterthur	230730	730	Endliker	230	39
+Zürich	261011	11	Rathaus	261	36
+Zürich	261012	12	Hochschulen	261	48
+Zürich	261013	13	Lindenhof	261	27
+Zürich	261014	14	City	261	57
+Zürich	261021	21	Wollishofen	261	427
+Zürich	261023	23	Leimbach	261	292
+Zürich	261024	24	Enge	261	178
+Zürich	261031	31	Alt-Wiedikon	261	169
+Zürich	261033	33	Friesenberg	261	530
+Zürich	261034	34	Sihlfeld	261	166
+Zürich	261041	41	Werd	261	30
+Zürich	261042	42	Langstrasse	261	121
+Zürich	261044	44	Hard	261	139
+Zürich	261051	51	Gewerbeschule	261	73
+Zürich	261052	52	Escher Wyss	261	127
+Zürich	261061	61	Unterstrass	261	247
+Zürich	261063	63	Oberstrass	261	264
+Zürich	261071	71	Fluntern	261	284
+Zürich	261072	72	Hottingen	261	505
+Zürich	261073	73	Hirslanden	261	219
+Zürich	261074	74	Witikon	261	493
+Zürich	261081	81	Seefeld	261	67
+Zürich	261082	82	Mühlebach	261	64
+Zürich	261083	83	Weinegg	261	175
+Zürich	261091	91	Albisrieden	261	460
+Zürich	261092	92	Altstetten	261	746
+Zürich	261101	101	Höngg	261	698
+Zürich	261102	102	Wipkingen	261	210
+Zürich	261111	111	Affoltern	261	605
+Zürich	261115	115	Oerlikon	261	268
+Zürich	261119	119	Seebach	261	471
+Zürich	261121	121	Saatlen	261	113
+Zürich	261122	122	Schwamendingen-Mitte	261	279
+Zürich	261123	123	Hirzenbach	261	205
+Bern	351001	1	Schwarzes Quartier	351	14
+Bern	351002	2	Weisses Quartier	351	10
+Bern	351003	3	Grünes Quartier	351	15
+Bern	351004	4	Gelbes Quartier	351	13
+Bern	351005	5	Rotes Quartier	351	32
+Bern	351006	6	Engeried	351	67
+Bern	351007	7	Felsenau	351	309
+Bern	351008	8	Neufeld	351	659
+Bern	351009	9	Länggasse	351	30
+Bern	351010	10	Stadtbach	351	28
+Bern	351011	11	Muesmatt	351	42
+Bern	351012	12	Holligen	351	383
+Bern	351013	13	Weissenstein	351	36
+Bern	351014	14	Mattenhof	351	61
+Bern	351015	15	Monbijou	351	47
+Bern	351016	16	Weissenbühl	351	82
+Bern	351017	17	Sandrain	351	83
+Bern	351018	18	Kirchenfeld	351	131
+Bern	351019	19	Gryphenhübeli	351	37
+Bern	351020	20	Brunnadern	351	132
+Bern	351021	21	Murifeld	351	121
+Bern	351022	22	Schosshalde	351	197
+Bern	351023	23	Beundenfeld	351	227
+Bern	351024	24	Altenberg	351	40
+Bern	351025	25	Spitalacker	351	69
+Bern	351026	26	Breitfeld	351	165
+Bern	351027	27	Breitenrain	351	44
+Bern	351028	28	Lorraine	351	66
+Bern	351029	29	Bümpliz	351	298
+Bern	351030	30	Oberbottigen	351	1278
+Bern	351031	31	Stöckacker	351	22
+Bern	351032	32	Bethlehem	351	424
+Biel/Bienne	371001	1	Rebberg/Vignoble	371	513
+Biel/Bienne	371002	2	Altstadt/Vieille ville	371	9
+Biel/Bienne	371003	3	Neustadt Nord/Nouvelle ville nord	371	79
+Biel/Bienne	371004	4	Neustadt Süd/Nouvelle ville sud	371	86
+Biel/Bienne	371005	5	Champagne	371	76
+Biel/Bienne	371006	6	Bözingen/Boujean	371	548
+Biel/Bienne	371007	7	Mett/Mâche	371	401
+Biel/Bienne	371008	8	Madretsch Nord	371	70
+Biel/Bienne	371009	9	Madretsch Süd	371	168
+Biel/Bienne	371010	10	Vingelz/Vigneules	371	169
+Luzern	1061001	1	Oberseeburg-Rebstock	1061	85
+Luzern	1061002	2	Würzenbach-Schädrüti	1061	112
+Luzern	1061003	3	Bellerive-Schlössli	1061	45
+Luzern	1061004	4	Halde-Lützelmatt	1061	240
+Luzern	1061005	5	Wesemlin-Dreilinden	1061	90
+Luzern	1061006	6	Maihof-Rotsee	1061	61
+Luzern	1061007	7	Hochwacht-Zürichstrasse	1061	30
+Luzern	1061008	8	Altstadt-Wey	1061	40
+Luzern	1061009	9	Bramberg-St.Karli	1061	34
+Luzern	1061010	10	Kantonsspital-Ibach	1061	98
+Luzern	1061011	11	Baselstrasse-Bernstrasse	1061	103
+Luzern	1061012	12	Bruch-Gibraltar	1061	30
+Luzern	1061013	13	Obergütsch-Untergütsch	1061	31
+Luzern	1061014	14	Hirschmatt-Kleinstadt	1061	56
+Luzern	1061015	15	Obergrund-Allmend	1061	128
+Luzern	1061016	16	Neustadt-Voltastrasse	1061	30
+Luzern	1061017	17	Unterlachen-Tribschen	1061	92
+Luzern	1061018	18	Sternmatt-Hochrüti	1061	53
+Luzern	1061019	19	Langensand-Matthof	1061	81
+Luzern	1061030	30	Udelboden	1061	71
+Luzern	1061031	31	Reussbühl	1061	91
+Luzern	1061032	32	Ruopigen	1061	76
+Luzern	1061033	33	Matt	1061	130
+Luzern	1061034	34	Littau Dorf	1061	183
+Luzern	1061035	35	An der Emme	1061	180
+Luzern	1061036	36	Littauerberg	1061	595
+Luzern	1061099	99	Bürgenstock	1061	145
+Basel	2701001	1	Grossbasel Altstadt	2701	47
+Basel	2701002	2	Vorstädte	2701	103
+Basel	2701003	3	Am Ring	2701	91
+Basel	2701004	4	Breite	2701	78
+Basel	2701005	5	St.Alban	2701	299
+Basel	2701006	6	Gundeldingen	2701	116
+Basel	2701007	7	Bruderholz	2701	259
+Basel	2701008	8	Bachletten	2701	153
+Basel	2701009	9	Gotthelf	2701	49
+Basel	2701010	10	Iselin	2701	109
+Basel	2701011	11	St.Johann	2701	236
+Basel	2701012	12	Kleinbasel Altstadt	2701	32
+Basel	2701013	13	Clara	2701	23
+Basel	2701014	14	Wettstein	2701	88
+Basel	2701015	15	Hirzbrunnen	2701	322
+Basel	2701016	16	Rosental	2701	63
+Basel	2701017	17	Matthäus	2701	68
+Basel	2701018	18	Klybeck	2701	106
+Basel	2701019	19	Kleinhüningen	2701	143
+St. Gallen	3203011	11	Winkeln	3203	472
+St. Gallen	3203012	12	Bruggen	3203	548
+St. Gallen	3203013	13	Lachen	3203	182
+St. Gallen	3203021	21	Rosenberg	3203	224
+St. Gallen	3203022	22	Riethüsli	3203	188
+St. Gallen	3203023	23	St.Georgen	3203	552
+St. Gallen	3203024	24	Innenstadt	3203	53
+St. Gallen	3203025	25	St.Jakob	3203	95
+St. Gallen	3203026	26	Linsebühl - Dreilinden	3203	83
+St. Gallen	3203031	31	Rotmonten	3203	217
+St. Gallen	3203032	32	Langgass - Heiligkreuz	3203	154
+St. Gallen	3203033	33	St.Fiden	3203	109
+St. Gallen	3203034	34	Notkersegg	3203	644
+St. Gallen	3203035	35	Neudorf	3203	417
+Lugano	5192001	1	Aldesago	5192	30
+Lugano	5192002	2	Besso	5192	65
+Lugano	5192003	3	Brè	5192	389
+Lugano	5192005	5	Cassarate	5192	39
+Lugano	5192006	6	Castagnola	5192	359
+Lugano	5192007	7	Centro	5192	103
+Lugano	5192008	8	Loreto	5192	60
+Lugano	5192009	9	Molino Nuovo	5192	123
+Lugano	5192011	11	Breganzona	5192	228
+Lugano	5192012	12	Cureggia	5192	66
+Lugano	5192013	13	Davesco-Soragno	5192	250
+Lugano	5192014	14	Gandria	5192	342
+Lugano	5192015	15	Pambio-Noranco	5192	55
+Lugano	5192016	16	Pazzallo	5192	162
+Lugano	5192017	17	Pregassona	5192	226
+Lugano	5192018	18	Viganello	5192	120
+Lugano	5192021	21	Barbengo	5192	263
+Lugano	5192022	22	Carabbia	5192	107
+Lugano	5192023	23	Villa Luganese	5192	221
+Lugano	5192031	31	Bogno	5192	423
+Lugano	5192032	32	Cadro	5192	456
+Lugano	5192033	33	Carona	5192	470
+Lugano	5192034	34	Certara	5192	272
+Lugano	5192035	35	Cimadera	5192	525
+Lugano	5192036	36	Sonvico	5192	1106
+Lugano	5192037	37	Valcolla	5192	1133
+Lausanne	5586001	1	Centre-Ville	5586	124
+Lausanne	5586002	2	Maupas - Valency	5586	80
+Lausanne	5586003	3	Sébeillon - Malley	5586	104
+Lausanne	5586004	4	Montoie - Bourdonette	5586	175
+Lausanne	5586005	5	Montriond - Cour	5586	146
+Lausanne	5586006	6	Sous-Gare - Ouchy	5586	81
+Lausanne	5586007	7	Montchoisi	5586	53
+Lausanne	5586008	8	Florimont - Chissiez	5586	47
+Lausanne	5586009	9	Mousquines - Bellevue	5586	55
+Lausanne	5586010	10	Vallon - Béthusy	5586	89
+Lausanne	5586011	11	Chailly - Rovéréaz	5586	194
+Lausanne	5586012	12	Sallaz - Vennes - Séchaud	5586	234
+Lausanne	5586013	13	Sauvabelin	5586	91
+Lausanne	5586014	14	Borde - Bellevaux	5586	69
+Lausanne	5586015	15	Vinet - Pontaise	5586	34
+Lausanne	5586016	16	Bossons - Blécherette	5586	181
+Lausanne	5586017	17	Beaulieu - Grey - Boisy	5586	67
+Lausanne	5586021	21	Vers-chez-les-Blanc	5586	1872
+Lausanne	5586022	22	Vernand	5586	442
+Genève	6621001	1	Cité - Centre	6621	106
+Genève	6621002	2	St-Gervais - Chantepoulet	6621	47
+Genève	6621003	3	Délices - Grottes	6621	68
+Genève	6621004	4	Pâquis - Navigation	6621	42
+Genève	6621011	11	Champel - Roseraie	6621	180
+Genève	6621012	12	Cluse - Philosophes	6621	46
+Genève	6621013	13	Jonction - Plainpalais	6621	97
+Genève	6621014	14	Bâtie - Acacias	6621	139
+Genève	6621021	21	Eaux-Vives - Lac	6621	136
+Genève	6621022	22	Florissant - Malagnou	6621	118
+Genève	6621031	31	Sécheron - Prieuré	6621	74
+Genève	6621032	32	ONU - Rigot	6621	107
+Genève	6621033	33	Grand-Pré - Vermont	6621	62
+Genève	6621034	34	Bouchet - Moillebeau	6621	161
+Genève	6621035	35	Charmilles - Châtelaine	6621	115
+Genève	6621036	36	St-Jean - Aire	6621	94

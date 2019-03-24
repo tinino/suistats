@@ -10,3 +10,4 @@ Description: Collects some functions that might faciliate the use of data from t
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1
