@@ -10,7 +10,8 @@
 #' @examples
 #' make_layer_data(agg_level = "GMDNR")
 make_layer_data <- function(agg_level = "GDNR") {
-  allowed_levels <- c("GDNR", "KTNR", "BZNR", "MSNR", "GRNR", "AMREG", "GD9T2012", "GD25T2012")
+  #allowed_levels <- c("GDNR", "KTNR", "BZNR", "MSNR", "GRNR", "AMREG", "GD9T2012", "GD25T2012")
+  allowed_levels <- names(suistats::bfs_regio_info)
   if (!agg_level %in% allowed_levels) {
     stop(sprintf("Wrong agg_level! Must be one of: %s", toString(allowed_levels)))
   }
