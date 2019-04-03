@@ -7,6 +7,8 @@
 #' @return A fortified dataframe that is ready for use with ggplot2.
 #' @export
 #'
+#' @author Tino Good, \email{onit.good+suistats@gmail.com}
+#'
 #' @examples
 #' make_layer_data(agg_level = "GMDNR")
 make_layer_data <- function(agg_level = "GDNR") {

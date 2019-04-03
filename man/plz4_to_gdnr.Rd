@@ -15,3 +15,6 @@ Vector with municipality numbers according to BFS (GDNR).
 \description{
 Transform PLZ4 to GDNR
 }
+\author{
+Tino Good, \email{onit.good+suistats@gmail.com}
+}

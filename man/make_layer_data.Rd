@@ -18,3 +18,6 @@ Create a Swiss map for ggplot2 with desired borders/levels.
 \examples{
 make_layer_data(agg_level = "GMDNR")
 }
+\author{
+Tino Good, \email{onit.good+suistats@gmail.com}
+}

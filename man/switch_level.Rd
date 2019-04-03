@@ -4,14 +4,14 @@
 \alias{switch_level}
 \title{Switch from GDNR to other BFS-levels}
 \usage{
-switch_level(x, from = "PLZ", to = "MSNR", ...)
+switch_level(x, from = "GDNR", to, ...)
 }
 \arguments{
 \item{x}{Vector with values to be mapped.}
 
 \item{to}{Output category.}
 
-\item{...}{Pass other settings to \code{ggsnb::mapvalues}.}
+\item{...}{Pass other settings to \code{mapvalues}.}
 }
 \value{
 Vector of same length as input with the respective to-values.
@@ -21,8 +21,8 @@ Maps values from municipality ID (\code{GDNR}) one to another, including zip-cod
 ... check \code{names(bfs_regio_info)} for alle options.
 }
 \examples{
-switch_level(x = 9000L, to = "MSNR")
+switch_level(x = 1000, to = "MSNR")
 }
 \author{
-Tino Good, \email{onit.good@gmail.com}
+Tino Good, \email{onit.good+suistats@gmail.com}
 }

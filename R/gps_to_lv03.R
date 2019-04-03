@@ -7,7 +7,7 @@
 #'
 #' @return Named list with \code{long} and \code{lat}.
 #' @export
-#' @author Tino Good, \email{onit.good@gmail.com}
+#' @author Tino Good, \email{onit.good+suistats@gmail.com}
 #' @examples
 #' gps_to_lv03(long = 7.45, lat = 46.95)
 gps_to_lv03 <- function(long, lat) {

@@ -21,5 +21,5 @@ Transforms GPS coordinates to Swiss LV95 coordinates, such that they can be used
 gps_to_lv95(long = 7.45, lat = 46.95)
 }
 \author{
-Tino Good, \email{onit.good@gmail.com}
+Tino Good, \email{onit.good+suistats@gmail.com}
 }

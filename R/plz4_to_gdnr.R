@@ -5,6 +5,8 @@
 #' @return Vector with municipality numbers according to BFS (GDNR).
 #' @export
 #'
+#' @author Tino Good, \email{onit.good+suistats@gmail.com}
+#'
 #' @examples
 plz4_to_gdnr <- function(x, true_match_only = FALSE) {
   lookup_table <- suistats::plz_fill_table
