@@ -18,7 +18,7 @@ make_layer_data <- function(agg_level = "GDNR") {
     stop(sprintf("Wrong agg_level! Must be one of: %s", toString(allowed_levels)))
   }
 
-  shp <- ch_shape_munip
+  shp <- suistats::ch_shape_munip
   shp$GMDNR <- switch_level(x = shp$GMDNR, to = agg_level)
 
   out <- suppressWarnings(broom::tidy(shp, region = "GMDNR")) # bad solution, but somewhere we have factors.
