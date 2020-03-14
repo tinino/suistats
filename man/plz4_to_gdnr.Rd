@@ -15,6 +15,10 @@ Vector with municipality numbers according to BFS (GDNR).
 \description{
 Transform PLZ4 to GDNR
 }
+\examples{
+plz4_to_gdnr(3000) # doesn't actually exist, even but will return 351
+plz4_to_gdnr(3000, true_match_only = T) # returns NA
+}
 \author{
 Tino Good, \email{onit.good+suistats@gmail.com}
 }
