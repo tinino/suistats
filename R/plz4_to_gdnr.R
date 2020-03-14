@@ -8,8 +8,6 @@
 #' @author Tino Good, \email{onit.good+suistats@gmail.com}
 #'
 #' @examples
-#' plz4_to_gdnr(3000) # doesn't actually exist, even but will return 351
-#' plz4_to_gdnr(3000, true_match_only = T) # returns NA
 plz4_to_gdnr <- function(x, true_match_only = FALSE) {
   lookup_table <- suistats::plz_fill_table
 
